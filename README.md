@@ -7,4 +7,5 @@ Online siparişler almak için tasarlanmış net ve kolay bir uygulamadır.
 Html , Css ve Js kullanılarak tasarlanmıştır.
 
 <h3> Ekran Görüntüsü </h3>
-Uploading RESTAURANT - Kişisel - Microsoft​ Edge 2023-05-25 22-31-29.mp4…
+https://github.com/omuroncul/Restaurant/assets/129686552/8b17cd38-f69b-48cc-91a3-6cd38d103a03
+
