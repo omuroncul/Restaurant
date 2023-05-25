@@ -7,5 +7,5 @@ Online siparişler almak için tasarlanmış net ve kolay bir uygulamadır.
 Html , Css ve Js kullanılarak tasarlanmıştır.
 
 <h3> Ekran Görüntüsü </h3>
-https://github.com/omuroncul/Restaurant/assets/129686552/8b17cd38-f69b-48cc-91a3-6cd38d103a03
 
+https://github.com/omuroncul/Restaurant/assets/129686552/6150b52a-79c5-401f-9ae9-29d5116e26f8
